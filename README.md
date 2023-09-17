@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SOUIDI Mohamed Amine</h1>
 <h3 align="center">A computer engineer passionate about virtual reality, 3D graphics, and mobile development from Algeria</h3>
-<img align="right" alt="coding" width="400" src="	https://potentialforafrica.com/assets/img/p4a.gif">
+<img align="right" alt="coding" width="400" src="https://potentialforafrica.com/assets/img/p4a.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souidiamine&label=Profile%20views&color=0e75b6&style=flat" alt="souidiamine" /> </p>
 
