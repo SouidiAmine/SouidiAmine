@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SOUIDI Mohamed Amine</h1>
 <h3 align="center">A computer engineer passionate about virtual reality, 3D graphics, and mobile development from Algeria</h3>
-<img src="https://tenor.com/view/coding-gif-24297652" align="right" alt="coding" width="400" />
 
+<div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-24297652">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souidiamine&label=Profile%20views&color=0e75b6&style=flat" alt="souidiamine" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://ma-souidi.netlify.app/](https://ma-souidi.netlify.app/)
