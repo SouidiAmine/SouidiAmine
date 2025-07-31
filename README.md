@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souidiamine&label=Profile%20views&color=0e75b6&style=flat" alt="souidiamine" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ma-souidi.netlify.app/](https://www.ma-souidi.pro/)
+- 👨‍💻 All of my projects are available at (https://www.ma-souidi.pro/)
 
 - 📫 How to reach me **contact.souidi2000@gmail.com**
 
